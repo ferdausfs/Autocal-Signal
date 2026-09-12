@@ -1,0 +1,46 @@
+{
+  "EURUSD": {
+    "bars": 12023,
+    "first": "2026-07-15T15:35:00+00:00",
+    "last": "2026-09-11T21:25:00+00:00",
+    "flatBarShare": 0.1918,
+    "maxGapHours": 49.58,
+    "maxGapAfter": "2026-07-17T21:25:00+00:00",
+    "maxGapIsMidweek": false,
+    "firstBarOk": true,
+    "pass": false
+  },
+  "GBPUSD": {
+    "bars": 12023,
+    "first": "2026-07-15T15:35:00+00:00",
+    "last": "2026-09-11T21:25:00+00:00",
+    "flatBarShare": 0.0052,
+    "maxGapHours": 49.58,
+    "maxGapAfter": "2026-07-17T21:25:00+00:00",
+    "maxGapIsMidweek": false,
+    "firstBarOk": true,
+    "pass": true
+  },
+  "USDJPY": {
+    "bars": 11972,
+    "first": "2026-07-15T15:35:00+00:00",
+    "last": "2026-09-11T20:55:00+00:00",
+    "flatBarShare": 0.0003,
+    "maxGapHours": 50.08,
+    "maxGapAfter": "2026-07-17T20:55:00+00:00",
+    "maxGapIsMidweek": false,
+    "firstBarOk": true,
+    "pass": true
+  },
+  "AUDUSD": {
+    "bars": 12026,
+    "first": "2026-07-15T15:35:00+00:00",
+    "last": "2026-09-11T21:30:00+00:00",
+    "flatBarShare": 0.1873,
+    "maxGapHours": 49.58,
+    "maxGapAfter": "2026-07-17T21:25:00+00:00",
+    "maxGapIsMidweek": false,
+    "firstBarOk": true,
+    "pass": false
+  }
+}

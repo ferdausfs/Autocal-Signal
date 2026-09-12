@@ -1,0 +1,16 @@
+2026-09-12T02:59:11.828Z === EURUSD ===
+2026-09-12T02:59:13.062Z   EURUSD 202409: attempt 1 failed: tk token not found
+2026-09-12T02:59:14.969Z   EURUSD 202409: attempt 2 failed: tk token not found
+2026-09-12T02:59:18.321Z   EURUSD 202409: attempt 3 failed: tk token not found
+2026-09-12T02:59:23.176Z   EURUSD 202409: attempt 4 failed: tk token not found
+2026-09-12T03:10:49.710Z === EURUSD ===
+2026-09-12T03:16:25.931Z === EURUSD ===
+2026-09-12T03:16:27.140Z   EURUSD 202409: token muted -> cooldown 310s
+2026-09-12T03:16:27.140Z   EURUSD 202409: attempt 1 failed: tk token muted
+2026-09-12T03:21:38.257Z   EURUSD 202409: token muted -> cooldown 310s
+2026-09-12T03:21:38.257Z   EURUSD 202409: attempt 2 failed: tk token muted
+2026-09-12T03:49:51.338Z === EURUSD ===
+2026-09-12T03:49:52.541Z   EURUSD 202409: token muted -> cooldown 310s
+2026-09-12T03:49:52.541Z   EURUSD 202409: attempt 1 failed: tk token muted
+2026-09-12T03:55:03.713Z   EURUSD 202409: token muted -> cooldown 310s
+2026-09-12T03:55:03.714Z   EURUSD 202409: attempt 2 failed: tk token muted
