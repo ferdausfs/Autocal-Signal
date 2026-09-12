@@ -1,0 +1,312 @@
+{
+  "gate": "pooled net expectancy bootstrap 95% CI lower bound > 0 (prereg §7)",
+  "pooled": {
+    "nTrades": 142,
+    "nResolved": 141,
+    "nCensored": 1,
+    "wins": 47,
+    "losses": 94,
+    "ties": 0,
+    "wr": {
+      "point": 0.3333333333333333,
+      "lo": 0.26085580523919116,
+      "hi": 0.414651467452784
+    },
+    "gross": {
+      "point": -0.010307266028368792,
+      "lo": -0.24434981921985816,
+      "hi": 0.2243973508510638
+    },
+    "net": {
+      "point": -0.47419221957446817,
+      "lo": -0.7089889358865252,
+      "hi": -0.23505384460992904
+    },
+    "meanCostR": 0.46388495314917333,
+    "geometryBreakEven": 0.48796165104972444,
+    "placedCount": 176,
+    "resolvedOrderCount": 176,
+    "fillRateRaw": 0.8068181818181818,
+    "fillRateResolved": 0.8068181818181818,
+    "min30": true,
+    "netSens": {
+      "spreadHalf": -0.25441952056908956,
+      "spreadDouble": -0.9137376163944473,
+      "swapZero": -0.44985266324527384,
+      "swapDouble": -0.4985317751098102,
+      "worstCase": -0.9380771723267156
+    }
+  },
+  "byPair": {
+    "EURUSD": {
+      "nTrades": 38,
+      "nResolved": 37,
+      "nCensored": 1,
+      "wins": 16,
+      "losses": 21,
+      "ties": 0,
+      "wr": {
+        "point": 0.43243243243243246,
+        "lo": 0.2867171927715731,
+        "hi": 0.5908581890983192
+      },
+      "gross": {
+        "point": 0.2972972972972973,
+        "lo": -0.1891891891891892,
+        "hi": 0.7837837837837838
+      },
+      "net": {
+        "point": -0.08146926810810809,
+        "lo": -0.5438543167567567,
+        "hi": 0.4057442324324324
+      },
+      "meanCostR": 0.37876656507867923,
+      "geometryBreakEven": 0.4595888550262264,
+      "placedCount": 46,
+      "resolvedOrderCount": 46,
+      "fillRateRaw": 0.8260869565217391,
+      "fillRateResolved": 0.8260869565217391,
+      "min30": true
+    },
+    "GBPUSD": {
+      "nTrades": 30,
+      "nResolved": 30,
+      "nCensored": 0,
+      "wins": 8,
+      "losses": 22,
+      "ties": 0,
+      "wr": {
+        "point": 0.26666666666666666,
+        "lo": 0.1418266331959632,
+        "hi": 0.44447961695188887
+      },
+      "gross": {
+        "point": -0.2,
+        "lo": -0.6,
+        "hi": 0.3
+      },
+      "net": {
+        "point": -0.642183688,
+        "lo": -1.097555327333333,
+        "hi": -0.1284049879999999
+      },
+      "meanCostR": 0.44218368789219287,
+      "geometryBreakEven": 0.48072789596406434,
+      "placedCount": 42,
+      "resolvedOrderCount": 42,
+      "fillRateRaw": 0.7142857142857143,
+      "fillRateResolved": 0.7142857142857143,
+      "min30": true
+    },
+    "USDJPY": {
+      "nTrades": 30,
+      "nResolved": 30,
+      "nCensored": 0,
+      "wins": 11,
+      "losses": 19,
+      "ties": 0,
+      "wr": {
+        "point": 0.36666666666666664,
+        "lo": 0.21873920806100705,
+        "hi": 0.5448643634520511
+      },
+      "gross": {
+        "point": 0.051555849666666674,
+        "lo": -0.44844415033333335,
+        "hi": 0.6
+      },
+      "net": {
+        "point": -0.2261969613333333,
+        "lo": -0.7471200783333334,
+        "hi": 0.31679544566666656
+      },
+      "meanCostR": 0.27775281055263074,
+      "geometryBreakEven": 0.4259176035175436,
+      "placedCount": 36,
+      "resolvedOrderCount": 36,
+      "fillRateRaw": 0.8333333333333334,
+      "fillRateResolved": 0.8333333333333334,
+      "min30": true
+    },
+    "AUDUSD": {
+      "nTrades": 44,
+      "nResolved": 44,
+      "nCensored": 0,
+      "wins": 12,
+      "losses": 32,
+      "ties": 0,
+      "wr": {
+        "point": 0.2727272727272727,
+        "lo": 0.16346381623843378,
+        "hi": 0.41848873092451194
+      },
+      "gross": {
+        "point": -0.18181818181818182,
+        "lo": -0.5909090909090909,
+        "hi": 0.22727272727272727
+      },
+      "net": {
+        "point": -0.8589845581818182,
+        "lo": -1.226304548636364,
+        "hi": -0.4721480640909089
+      },
+      "meanCostR": 0.677166375744945,
+      "geometryBreakEven": 0.5590554585816484,
+      "placedCount": 52,
+      "resolvedOrderCount": 52,
+      "fillRateRaw": 0.8461538461538461,
+      "fillRateResolved": 0.8461538461538461,
+      "min30": true
+    }
+  },
+  "byZone": {
+    "OB": {
+      "nTrades": 136,
+      "nResolved": 135,
+      "nCensored": 1,
+      "wins": 45,
+      "losses": 90,
+      "ties": 0,
+      "wr": {
+        "point": 0.3333333333333333,
+        "lo": 0.25939723284907457,
+        "hi": 0.4164920844901004
+      },
+      "gross": {
+        "point": -0.01076536674074074,
+        "lo": -0.24375295570370373,
+        "hi": 0.22291371096296297
+      },
+      "net": {
+        "point": -0.44541595140740753,
+        "lo": -0.680122211185185,
+        "hi": -0.20310873859259257
+      },
+      "meanCostR": 0.43465058427120373,
+      "geometryBreakEven": 0.4782168614237346,
+      "placedCount": 169,
+      "resolvedOrderCount": 169,
+      "fillRateRaw": 0.8047337278106509,
+      "fillRateResolved": 0.8047337278106509,
+      "min30": true
+    },
+    "FVG": {
+      "nTrades": 6,
+      "nResolved": 6,
+      "nCensored": 0,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wr": {
+        "point": 0.3333333333333333,
+        "lo": 0.09677141110578043,
+        "hi": 0.7000066848616079
+      },
+      "gross": {
+        "point": 0,
+        "lo": -1,
+        "hi": 1
+      },
+      "net": {
+        "point": -1.1216582533333332,
+        "lo": -2.1965181366666666,
+        "hi": -0.014461003333333333
+      },
+      "meanCostR": 1.12165825290349,
+      "geometryBreakEven": 0.7072194176344967,
+      "placedCount": 7,
+      "resolvedOrderCount": 7,
+      "fillRateRaw": 0.8571428571428571,
+      "fillRateResolved": 0.8571428571428571,
+      "min30": false
+    }
+  },
+  "halves": {
+    "splitT": 1786838400000,
+    "first": {
+      "nTrades": 68,
+      "nResolved": 68,
+      "nCensored": 0,
+      "wins": 22,
+      "losses": 46,
+      "ties": 0,
+      "wr": {
+        "point": 0.3235294117647059,
+        "lo": 0.22437604095329994,
+        "hi": 0.44155501899496036
+      },
+      "gross": {
+        "point": -0.05078418397058823,
+        "lo": -0.359607713382353,
+        "hi": 0.2807845732352941
+      },
+      "net": {
+        "point": -0.5194337457352941,
+        "lo": -0.8496263166176472,
+        "hi": -0.1661274382352942
+      },
+      "meanCostR": 0.46864956123562623,
+      "geometryBreakEven": 0.48954985374520876,
+      "placedCount": null,
+      "resolvedOrderCount": null,
+      "fillRateRaw": null,
+      "fillRateResolved": null,
+      "min30": true
+    },
+    "second": {
+      "nTrades": 74,
+      "nResolved": 73,
+      "nCensored": 1,
+      "wins": 25,
+      "losses": 48,
+      "ties": 0,
+      "wr": {
+        "point": 0.3424657534246575,
+        "lo": 0.2439486733931856,
+        "hi": 0.4567337400723186
+      },
+      "gross": {
+        "point": 0.0273972602739726,
+        "lo": -0.3013698630136986,
+        "hi": 0.3561643835616438
+      },
+      "net": {
+        "point": -0.4320494280821919,
+        "lo": -0.7527154461643836,
+        "hi": -0.1000419464383562
+      },
+      "meanCostR": 0.4594466880823403,
+      "geometryBreakEven": 0.48648222936078006,
+      "placedCount": null,
+      "resolvedOrderCount": null,
+      "fillRateRaw": null,
+      "fillRateResolved": null,
+      "min30": true
+    }
+  },
+  "funnel": {
+    "WARMUP": 68,
+    "ZONE_DIR_MISMATCH": 381,
+    "SKIPPED_OB_PRIORITY": 130,
+    "PLACED_OB": 169,
+    "SKIPPED_PENDING": 174,
+    "PLACED_FVG": 7,
+    "POSITION_BUSY": 17
+  },
+  "pendOutcomes": {
+    "FILLED": 142,
+    "EXPIRED": 30,
+    "VOID_GAP": 4
+  },
+  "placedTotal": 176,
+  "meta": {
+    "generatedAt": "2026-09-12T16:27:03.407Z",
+    "runner": "backtest/autocal_backtest.mjs",
+    "prereg": "prereg/PREREG_AUTOCAL_SIGNAL.md (frozen 2026-09-12T15:45Z, commit a353866)",
+    "singleRun": true,
+    "bootstrap": {
+      "iters": 10000,
+      "seed": 20260912
+    }
+  }
+}
